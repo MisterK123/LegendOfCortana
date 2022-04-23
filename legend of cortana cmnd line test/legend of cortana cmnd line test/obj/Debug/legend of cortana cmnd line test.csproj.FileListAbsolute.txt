@@ -1,0 +1,7 @@
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\obj\Debug\legend of cortana cmnd line test.csproj.AssemblyReference.cache
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\obj\Debug\legend of cortana cmnd line test.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\bin\Debug\legend of cortana cmnd line test.exe.config
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\bin\Debug\legend of cortana cmnd line test.exe
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\bin\Debug\legend of cortana cmnd line test.pdb
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\obj\Debug\legend of cortana cmnd line test.exe
+D:\Visual studio projects\C#\legend of cortana cmnd line test\legend of cortana cmnd line test\obj\Debug\legend of cortana cmnd line test.pdb
